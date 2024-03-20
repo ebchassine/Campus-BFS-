@@ -1,4 +1,3 @@
-#Author: Ethan Wong-Chassine
 #Date: 3/9/23
 #Purpose: Creating the graph and image for Lab 4 with BFS
 
