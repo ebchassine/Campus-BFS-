@@ -1,4 +1,3 @@
-#Name: Ethan Wong-Chassine
 #Date: 3/8/23
 #Purpose: Breadth First Search algorithm for Lab 4
 
