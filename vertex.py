@@ -1,4 +1,3 @@
-#Author: Ethan Wong-Chassine
 #Date: 3/3/23
 #Purpose: Vertex Class for Lab 4
 
